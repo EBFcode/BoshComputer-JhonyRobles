@@ -1,0 +1,355 @@
+{
+    "status": "success",
+    "items": [{
+            "id": 1,
+            "title": "LAPTOP LENOVO IDEAPAD",
+            "price": 39250,
+            "image": "https://www.prodacom.com/img/productos/NOTE-0163.jpg",
+            "category": "laptop"
+        },
+        {
+            "id": 2,
+            "title": "LAPTOP LENOVO IDEAPAD GAMING 15.6P CI5 82K1015C BLACK NEW",
+            "price": 50773,
+            "image": "https://www.prodacom.com/img/productos/NOTE-0482.jpg",
+            "category": "laptop"
+        },
+        {
+            "id": 3,
+            "title": "LAPTOP ACER ASPIRE 15.6P CI7 10TH A315-57G NEW",
+            "price": 62555,
+            "image": "https://www.prodacom.com/img/productos/NOTE-8512.jpg",
+            "category": "laptop"
+        },
+        {
+            "id": 4,
+            "title": "LAPTOP DELL LATITUDE 14.0P CI5 5420 N2HTG 11MA NEW",
+            "price": 69290,
+            "image": "https://www.prodacom.com/img/productos/NOTE-0301.jpg",
+            "category": "laptop"
+        },
+        {
+            "id": 5,
+            "title": "LAPTOP HP 15.6P CI7 15-DY2078NR 11TH NEW",
+            "price": 59763,
+            "image": "https://www.prodacom.com/img/productos/NOTE-0363.jpg",
+            "category": "laptop"
+        },
+        {
+            "id": 6,
+            "title": "LAPTOP DELL INSPIRON 14.0P 3000 BLACK NEW",
+            "price": 32560,
+            "image": "https://www.prodacom.com/img/productos/NOTE-0118.jpg",
+            "category": "laptop"
+        },
+        {
+            "id": 7,
+            "title": "LAPTOP DELL LATITUDE 15 P CI5 1135G7 3520",
+            "price": 59614,
+            "image": "https://www.prodacom.com/img/productos/NOTE-0362.jpg",
+            "category": "laptop"
+        },
+        {
+            "id": 8,
+            "title": "LAPTOP LENOVO IDEAPAD 3 15. 81X800KLUS ALMOND NEW",
+            "price": 32983,
+            "image": "https://www.prodacom.com/img/productos/NOTE-8510.jpg",
+            "category": "laptop"
+        },
+        {
+            "id": 9,
+            "title": "LAPTOP LENOVO 330-15AST 15.6P AMD A6-9225 REF",
+            "price": 36290,
+            "image": "https://www.prodacom.com/img/productos/NOTE-0487.jpg",
+            "category": "laptop"
+        },
+        {
+            "id": 10,
+            "title": "MOUSE AGILER GAMING RUBBER (AGI-2100)",
+            "price": 600,
+            "image": "https://fercomse.com.do/tienda/layout1/img/p/1/8/3/3/1833-large_default.jpg",
+            "category": "mouse"
+        },
+        {
+            "id": 11,
+            "title": "MOUSE LOGITECH M187 INALAMBRICO MINI OPTICO, PALACE BLUE, USB NANO RECEIVER - SMART SLEEP (910-005360)",
+            "price": 850,
+            "image": "https://fercomse.com.do/tienda/layout1/img/p/3/2/0/2/3202-large_default.jpg",
+            "category": "mouse"
+        },
+        {
+            "id": 12,
+            "title": "MOUSE LOGITECH M187 INALAMBRICO MINI OPTICO, CORAL, USB NANO RECEIVER - SMART SLEEP (910-005362)",
+            "price": 850,
+            "image": "https://fercomse.com.do/tienda/layout1/img/p/3/2/0/1/3201-large_default.jpg",
+            "category": "mouse"
+        },
+        {
+            "id": 13,
+            "title": "MOUSE AGILER WIRELESS, NANO RECEPTOR, ULTRA COMPACTO",
+            "price": 600,
+            "image": "https://fercomse.com.do/tienda/layout1/img/p/4/5/3/6/4536-large_default.jpg",
+            "category": "mouse"
+        },
+        {
+            "id": 14,
+            "title": "MOUSE AGILER WIRELESS, NANO RECEPTOR, ULTRA COMPACTO",
+            "price": 600,
+            "image": "https://fercomse.com.do/tienda/layout1/img/p/4/5/3/5/4535-large_default.jpg",
+            "category": "mouse"
+        },
+        {
+            "id": 15,
+            "title": "MOUSE LOGITECH M170 INALAMBRICO OPTICO",
+            "price": 650,
+            "image": "https://fercomse.com.do/tienda/layout1/img/p/4/5/3/1/4531-large_default.jpg",
+            "category": "mouse"
+        },
+        {
+            "id": 16,
+            "title": "SAMSUNG - TABLETA SAMSUNG GALAXY TAB A7 LITE T220, 8.7 WIFI - 32GB",
+            "price": 10807,
+            "image": "https://sis.omega.com.do/ProductImages/c3b3480a-686d-40e8-8d9e-006a7a4ab654.png",
+            "category": "tablet"
+        },
+        {
+            "id": 17,
+            "title": "Apple iPad PRO 12.9 M1 WI-FI 128GB Gris Oscuro (MHNF3LL/A)",
+            "price": 96760,
+            "image": "https://cecomsa.com/media/products/000bb6f560a0e5741acda09a597c568d.jpg",
+            "category": "ipad"
+        },
+        {
+            "id": 18,
+            "title": "Apple iPad Pro 12.9 M1 WI-FI 256GB Gris (MHNJ3LL/A)",
+            "price": 105551,
+            "image": "https://cecomsa.com/media/products/bc94ccc6f8e1274b724f9502c3b8f02e.jpg",
+            "category": "ipad"
+        },
+        {
+            "id": 19,
+            "title": "TABLET 8.0 GALAXY TAB A 8 T290NZKCXAR",
+            "price": 9997,
+            "image": "https://www.prodacom.com/img/productos/TABL-0148.jpg",
+            "category": "tablet"
+        },
+        {
+            "id": 20,
+            "title": "TABLET 7.0 AMAZON FIRE 7 16GB CON ALEXA BLACK",
+            "price": 4414,
+            "image": "https://www.prodacom.com/img/productos/TABL-0251.jpg",
+            "category": "tablet"
+        },
+        {
+            "id": 21,
+            "title": "TABLET 8.0 AMAZON FIRE 8 32GB CON ALEXA BLACK",
+            "price": 5456,
+            "image": "https://www.prodacom.com/img/productos/TABL-0005.jpg",
+            "category": "tablet"
+        },
+        {
+            "id": 22,
+            "title": "TABLET 8.0 AMAZON FIRE 8 32GB CON ALEXA WHITE",
+            "price": 5456,
+            "image": "https://www.prodacom.com/img/productos/TABL-0149.jpg",
+            "category": "tablet"
+        },
+        {
+            "id": 23,
+            "title": "TABLET 8.0 LENOVO M8 32GB NEW",
+            "price": 6950,
+            "image": "https://www.prodacom.com/img/productos/TABL-0150.jpg",
+            "category": "tablet"
+        },
+        {
+            "id": 24,
+            "title": "Teclado Logietch K380 Multi dispositivo Inalambric",
+            "price": 1905,
+            "image": "https://cecomsa.com/media/products/a1cd2bb33d2ab39eb9f95247fe79a70a.jpg",
+            "category": "teclado"
+        },
+        {
+            "id": 25,
+            "title": "Teclado Gaming USB XTECH Spa (XTK-510S)",
+            "price": 767,
+            "image": "https://cecomsa.com/media/products/cfba5f0af47c45b4c88fdff9e91e326e.jpg",
+            "category": "teclado"
+        },
+        {
+            "id": 26,
+            "title": "Teclado CA-KB-1200 Gaming (347835)",
+            "price": 1239,
+            "image": "https://cecomsa.com/media/products/0d5f177519368221ec98dc42666e2a43.jpg",
+            "category": "teclado"
+        },
+        {
+            "id": 27,
+            "title": "Teclado Logitech G213 Prodigy Gaming (920-008083)",
+            "price": 3363,
+            "image": "https://cecomsa.com/media/products/cc25c03dbfed0a03a652815f6ceea5c8.jpg",
+            "category": "teclado"
+        },
+        {
+            "id": 28,
+            "title": "Teclado Primus Gaming Ballista 100T WRD (PKS-102S)",
+            "price": 4189,
+            "image": "https://cecomsa.com/media/products/024bb86cfe6f0da4bc79083040b7156d.jpg",
+            "category": "teclado"
+        },
+        {
+            "id": 29,
+            "title": "Teclado Gaming Primus Ballista 200S RGB (PKS-201S)",
+            "price": 5074,
+            "image": "https://cecomsa.com/media/products/955ddcfbb8c7050049c9381f4d85933a.jpg",
+            "category": "teclado"
+        },
+        {
+            "id": 30,
+            "title": "Teclado Logitech Pro Mechanical Gaming USB (920-010074)",
+            "price": 6490,
+            "image": "https://cecomsa.com/media/products/1bd8f7557762fa752cdd5719d416caf0.jpg",
+            "category": "teclado"
+        },
+        {
+            "id": 31,
+            "title": "Impresora HP Deskjet Ink Advantage 2375 P/C/S (7WQ",
+            "price": 2773,
+            "image": "https://cecomsa.com/media/products/b840b3ec013c44529f3502b158aa685e.jpg",
+            "category": "impresora"
+        },
+        {
+            "id": 32,
+            "title": "Impresora HP Deskjet Ink Advantage 2775 AIO (7FR21A#AKY)",
+            "price": 3540,
+            "image": "https://cecomsa.com/media/products/8cb8b9598646a45a6828833f448952bc.jpg",
+            "category": "impresora"
+        },
+        {
+            "id": 33,
+            "title": "Impresor HP DeskJet Advantage 3775 (Todo en 1)",
+            "price": 4366,
+            "image": "https://cecomsa.com/media/products/d20616c89b3bb74bb297c100d4562da5.jpg",
+            "category": "impresora"
+        },
+        {
+            "id": 34,
+            "title": "Impresora HP Deskjet Ink Advantage 6475 P/S/C (5SD",
+            "price": 8555,
+            "image": "https://cecomsa.com/media/products/77807bc7c9df0066fb0b5b39996698fb.jpg",
+            "category": "impresora"
+        },
+        {
+            "id": 35,
+            "title": "Impresora HP Officejet Pro 9020 AIO P/S/C/F (1MR69",
+            "price": 17523,
+            "image": "https://cecomsa.com/media/products/d22e2a9055031d4fa774279cdab512fb.jpg",
+            "category": "impresora"
+        },
+        {
+            "id": 36,
+            "title": "UPS CDP DE 500VA R-UPR504",
+            "price": 2773,
+            "image": "https://cecomsa.com/media/products/e94026c7d2cb2bccac155948a6b129f4.jpg",
+            "category": "ups"
+        },
+        {
+            "id": 37,
+            "title": "UPS Forza NT 1000VA (NT-1011D)",
+            "price": 3834,
+            "image": "https://cecomsa.com/media/products/106e9ea0bf6c83e5899dae039c4d25b0.jpg",
+            "category": "ups"
+        },
+        {
+            "id": 38,
+            "title": "UPS Forza Smart 750VA / 375W 110V (SL-761LCD-D)",
+            "price": 3835,
+            "image": "https://cecomsa.com/media/products/a17265e270864ab627f9e7db8a791585.jpg",
+            "category": "ups"
+        },
+        {
+            "id": 39,
+            "title": "UPS APC 600VA ES BE600M1 330 WATTS",
+            "price": 4602,
+            "image": "https://cecomsa.com/media/products/6ed6abbfa3e34a04976000a2526ad9b3.jpg",
+            "category": "ups"
+        },
+        {
+            "id": 40,
+            "title": "UPS APC BACK-UPS 800VA 120V (BX800L-LM)",
+            "price": 4661,
+            "image": "https://cecomsa.com/media/products/8d3c31d3d713ea8be4eaf27cb26065bc.jpg",
+            "category": "ups"
+        },
+        {
+            "id": 41,
+            "title": "UPS Forza Smart 800VA/480W/RJ45/LCD (SL-801UL)",
+            "price": 4838,
+            "image": "https://cecomsa.com/media/products/5c7cf1875714881cc4614aba864662bc.jpg",
+            "category": "ups"
+        },
+        {
+            "id": 42,
+            "title": "UPS APC Back-UPS 1000VA 120V (BX1000L-LM)",
+            "price": 7434,
+            "image": "https://cecomsa.com/media/products/82e9d0193d875f6293dd5cf00832480a.jpg",
+            "category": "ups"
+        },
+        {
+            "id": 43,
+            "title": "UPS APC Backups Pro BX 1000VA (BX1000M-LM60)",
+            "price": 9912,
+            "image": "https://cecomsa.com/media/products/9573a6853f311dbe1ea91c430117a6e4.jpg",
+            "category": "ups"
+        },
+        {
+            "id": 44,
+            "title": "UPS Forza 1500VA 840W (FX-1500LCD)",
+            "price": 10266,
+            "image": "https://cecomsa.com/media/products/1a84b737fb67b4c3463c56940027531b.jpg",
+            "category": "ups"
+        },
+        {
+            "id": 45,
+            "title": "UPS APC Backups RS 1100VA 120VA (BR1100M2-LM)",
+            "price": 11859,
+            "image": "https://cecomsa.com/media/products/a90f570f415d879e5f1c7e091e07d043.jpg",
+            "category": "ups"
+        },
+        {
+            "id": 46,
+            "title": "Bocina Estereo 2.0 USB 5W (XTS-110)",
+            "price": 383,
+            "image": "https://cecomsa.com/media/products/a4aa3a44f3e8f40ff8297305b8b48655.jpg",
+            "category": "bocinas"
+        },
+        {
+            "id": 47,
+            "title": "Bocina Orbit 2.0 Azul-Negro (ARG-SP-1026)",
+            "price": 472,
+            "image": "https://cecomsa.com/media/products/3067c4e92a39e3777eeb5a35034c9432.jpg",
+            "category": "bocinas"
+        },
+        {
+            "id": 48,
+            "title": "Bocina Argom Volcano (SP-1048)",
+            "price": 767,
+            "image": "https://cecomsa.com/media/products/c1eef322c1e8b1e42dc0e6dc56a8192f.jpg",
+            "category": "bocinas"
+        },
+        {
+            "id": 49,
+            "title": "Bocina PC Xtech 4W/3.5MM/Luces LED Negro (XTS-130)",
+            "price": 1003,
+            "image": "https://cecomsa.com/media/products/086550f24c71181649a15510ea2247b7.jpg",
+            "category": "bocinas"
+        },
+        {
+            "id": 50,
+            "title": "Bocina Xtech Augury 2.1 3.5MM (XTS-420)",
+            "price": 2183,
+            "image": "https://cecomsa.com/media/products/329985633fe88285347c4567bcff336d.jpg",
+            "category": "bocinas"
+        }
+    ]
+
+}
